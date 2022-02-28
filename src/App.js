@@ -12,7 +12,7 @@ function App() {
   test(); // Direct response from the API, array of tournament JSON objects
   return (
     <div>
-      Hello to the world!!
+      Hello world!!
     </div>
   );
 }
